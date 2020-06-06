@@ -159,3 +159,5 @@
 #ifndef __cplusplus
 /* #undef inline */
 #endif
+
+#define CURSESINC <ncurses.h>
